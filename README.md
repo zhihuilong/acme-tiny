@@ -3,6 +3,11 @@
 [![Build Status](https://travis-ci.org/diafygi/acme-tiny.svg)](https://travis-ci.org/diafygi/acme-tiny)
 [![Coverage Status](https://coveralls.io/repos/diafygi/acme-tiny/badge.svg?branch=master&service=github)](https://coveralls.io/github/diafygi/acme-tiny?branch=master)
 
+## Use scprit below instead
+
+`wget https://raw.githubusercontent.com/zhihuilong/acme-tiny/master/acme_tiny.py`
+
+
 This is a tiny, auditable script that you can throw on your server to issue
 and renew [Let's Encrypt](https://letsencrypt.org/) certificates. Since it has
 to be run on your server and have access to your private Let's Encrypt account
